@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AccountOwnerServer",
+    "\\AccountOwnerServer\\Controllers",
+    "\\Contracts",
+    "\\Contracts\\obj",
+    "\\Repository"
+  ],
+  "SelectedNode": "\\Contracts\\Contracts.csproj",
+  "PreviewInSolutionExplorer": false
+}

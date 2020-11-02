@@ -1,0 +1,54 @@
+2020-10-29 11:08:10.0813 INFO Returned all owners from database.
+2020-10-29 12:25:21.9429 INFO Returned all owners from database.
+2020-10-29 12:27:33.4188 INFO Returned all owners from database.
+2020-10-29 12:27:36.6437 INFO Returned all owners from database.
+2020-10-29 12:28:28.2703 INFO Returned all owners from database.
+2020-10-29 12:41:15.8398 INFO Returned all owners from database.
+2020-10-29 12:41:23.7916 INFO Returned all owners from database.
+2020-10-29 12:41:25.2093 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-10-29 12:41:32.8209 INFO Returned all owners from database.
+2020-10-29 12:41:35.9271 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2020-10-29 12:51:16.9986 INFO Returned all owners from database.
+2020-10-29 12:51:18.2986 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-10-29 13:19:00.6081 INFO Returned all owners from database.
+2020-10-29 13:19:05.7606 INFO Returned all owners from database.
+2020-10-29 13:19:06.8894 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-10-29 13:19:08.9661 INFO Returned all owners from database.
+2020-10-29 13:28:23.2735 INFO Returned all owners from database.
+2020-10-29 13:28:25.5545 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-10-29 13:28:53.1471 INFO Returned all owners from database.
+2020-10-29 13:28:59.8043 INFO Returned all owners from database.
+2020-10-29 14:52:24.3978 INFO Returned all owners from database.
+2020-10-29 14:53:16.5595 INFO Returned all owners from database.
+2020-10-29 14:53:20.0970 INFO Returned all owners from database.
+2020-10-29 14:53:23.3457 INFO Returned all owners from database.
+2020-10-29 14:53:27.0645 INFO Returned all owners from database.
+2020-10-29 14:53:39.7441 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-10-29 14:53:40.8160 INFO Returned all owners from database.
+2020-10-29 15:17:58.3116 INFO Returned all owners from database.
+2020-10-29 15:18:03.5823 INFO Returned all owners from database.
+2020-10-29 15:19:13.9761 INFO Returned all owners from database.
+2020-10-29 15:19:39.1434 INFO Returned all owners from database.
+2020-10-29 15:38:40.1004 INFO Returned all owners from database.
+2020-10-29 15:48:57.7065 INFO Returned all owners from database.
+2020-10-29 15:49:14.9420 ERROR Something went wrong inside CreateOwner action: The method or operation is not implemented.
+2020-10-29 15:53:30.5435 INFO Returned all owners from database.
+2020-10-29 15:53:36.8343 ERROR Something went wrong inside CreateOwner action: The method or operation is not implemented.
+2020-10-29 15:59:01.9968 INFO Returned all owners from database.
+2020-10-29 16:04:10.3452 ERROR Something went wrong inside CreateOwner action: The method or operation is not implemented.
+2020-10-29 16:16:47.1091 INFO Returned all owners from database.
+2020-10-29 16:42:34.5712 INFO Returned all owners from database.
+2020-10-29 16:46:27.3548 INFO Returned all owners from database.
+2020-10-29 16:50:12.8925 INFO Returned all owners from database.
+2020-10-29 16:51:23.5892 INFO Returned all owners from database.
+2020-10-29 16:53:50.6991 INFO Returned all owners from database.
+2020-10-29 16:54:19.6899 INFO Returned all owners from database.
+2020-10-29 16:57:00.6919 INFO Returned all owners from database.
+2020-10-29 16:59:27.6096 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-10-29 16:59:31.2748 INFO Returned all owners from database.
+2020-10-29 16:59:32.9619 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-10-29 16:59:36.2678 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-10-29 17:06:14.7330 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-10-29 17:06:18.8628 INFO Returned all owners from database.
+2020-10-29 17:06:20.2923 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-10-29 17:06:24.7361 INFO Returned all owners from database.

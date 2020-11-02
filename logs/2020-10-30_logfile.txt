@@ -1,0 +1,50 @@
+2020-10-30 11:03:30.1396 INFO Returned all owners from database.
+2020-10-30 11:03:33.4267 INFO Returned all owners from database.
+2020-10-30 11:10:15.4281 INFO Returned all owners from database.
+2020-10-30 11:10:16.5823 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-10-30 11:10:17.6818 INFO Returned all owners from database.
+2020-10-30 11:10:19.9154 INFO Returned all owners from database.
+2020-10-30 11:15:08.3441 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-10-30 11:15:09.8893 INFO Returned all owners from database.
+2020-10-30 11:15:11.8116 INFO Returned owner with id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2020-10-30 11:15:17.8999 INFO Returned owner with id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2020-10-30 11:15:47.6749 INFO Returned owner with id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2020-10-30 11:15:49.1574 INFO Returned all owners from database.
+2020-10-30 11:15:50.5477 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-10-30 11:15:54.1642 INFO Returned all owners from database.
+2020-10-30 11:16:14.1125 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-10-30 11:16:16.0388 ERROR Something went wrong inside DeleteOwner action: An error occurred while updating the entries. See the inner exception for details.
+2020-10-30 11:16:17.7393 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-10-30 11:16:19.1082 ERROR Something went wrong inside DeleteOwner action: An error occurred while updating the entries. See the inner exception for details.
+2020-10-30 11:16:20.3052 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-10-30 11:16:21.0440 INFO Returned all owners from database.
+2020-10-30 11:16:21.1871 INFO Returned owner with id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2020-10-30 11:16:24.2558 INFO Returned all owners from database.
+2020-10-30 11:16:26.1437 INFO Returned owner with id: 08d87c60-af0d-4df9-8142-1d1591af66d3
+2020-10-30 11:16:28.4538 INFO Returned all owners from database.
+2020-10-30 11:16:32.6481 INFO Returned all owners from database.
+2020-10-30 11:16:41.2744 INFO Returned all owners from database.
+2020-10-30 11:17:59.7978 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-10-30 11:18:01.7067 ERROR Something went wrong inside DeleteOwner action: An error occurred while updating the entries. See the inner exception for details.
+2020-10-30 11:20:59.6185 INFO Returned all owners from database.
+2020-10-30 11:21:10.1599 INFO Returned owner with id: 08d87cff-f287-444b-8c07-81e0b1c96170
+2020-10-30 11:21:24.7979 INFO Returned all owners from database.
+2020-10-30 11:21:27.1703 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-10-30 11:21:28.7075 ERROR Something went wrong inside DeleteOwner action: An error occurred while updating the entries. See the inner exception for details.
+2020-10-30 11:23:59.3192 INFO Returned all owners from database.
+2020-10-30 11:24:00.4845 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-10-30 11:24:01.9008 ERROR Something went wrong inside DeleteOwner action: An error occurred while updating the entries. See the inner exception for details.
+2020-10-30 11:26:55.1299 INFO Returned all owners from database.
+2020-10-30 11:28:14.9561 INFO Returned all owners from database.
+2020-10-30 11:28:16.4907 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-10-30 11:28:17.9975 ERROR Something went wrong inside DeleteOwner action: An error occurred while updating the entries. See the inner exception for details.
+2020-10-30 11:28:19.3068 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-10-30 11:28:19.9436 INFO Returned all owners from database.
+2020-10-30 11:29:30.3097 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-10-30 11:29:31.7408 ERROR Something went wrong inside DeleteOwner action: An error occurred while updating the entries. See the inner exception for details.
+2020-10-30 11:34:37.1314 INFO Returned all owners from database.
+2020-10-30 11:34:42.8959 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-10-30 11:40:28.5033 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-10-30 11:40:33.1392 INFO Returned all owners from database.
+2020-10-30 11:40:35.7491 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-10-30 11:40:43.2218 ERROR Cannot delete owner with id: 261e1685-cf26-494c-b17c-3546e65f5620. It has related accounts. Delete those accounts first

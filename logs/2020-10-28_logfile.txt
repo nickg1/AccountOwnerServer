@@ -1,0 +1,19 @@
+2020-10-28 10:17:03.1113 INFO Returned all owners from database.
+2020-10-28 10:46:38.7342 ERROR Something went wrong inside DeleteOwner action: The method or operation is not implemented.
+2020-10-28 10:46:52.0664 INFO Returned all owners from database.
+2020-10-28 10:47:28.5513 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-10-28 10:47:32.3059 ERROR Something went wrong inside DeleteOwner action: The method or operation is not implemented.
+2020-10-28 15:55:49.4377 INFO Returned all owners from database.
+2020-10-28 15:55:51.7964 INFO Returned all owners from database.
+2020-10-28 15:57:35.6737 INFO Returned all owners from database.
+2020-10-28 15:57:37.9560 INFO Returned all owners from database.
+2020-10-28 15:57:40.3163 INFO Returned all owners from database.
+2020-10-28 16:16:58.2167 INFO Returned all owners from database.
+2020-10-28 16:17:13.2009 INFO Returned all owners from database.
+2020-10-28 16:17:15.7591 INFO Returned all owners from database.
+2020-10-28 16:17:18.3881 INFO Returned all owners from database.
+2020-10-28 16:17:20.3706 INFO Returned all owners from database.
+2020-10-28 16:17:24.4809 INFO Returned all owners from database.
+2020-10-28 16:20:18.9746 INFO Returned all owners from database.
+2020-10-28 16:21:37.6351 INFO Returned all owners from database.
+2020-10-28 16:23:41.0828 INFO Returned all owners from database.
